@@ -1,1 +1,14 @@
-{}
+{
+  "post": [
+    {
+      "id": "fdfd4d4e-ff99-49f3-9ed7-f6e1b816859d"
+    },
+    {
+      "title": "title1",
+      "author": "CIQ",
+      "views": "view",
+      "reviews": "31",
+      "id": "bf14db21-ef88-452b-a837-8b741c0e523b"
+    }
+  ]
+}
