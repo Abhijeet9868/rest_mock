@@ -8,12 +8,11 @@ npm install
 ```json
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 0, "title": "title1", "author": "c1q", "views": 31 }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "authors": [
+    { "id": 1, "First_name": "COMMMERCE", "Last_name": "IQ" , "posts": 45 }
   ],
-  "profile": { "name": "typicode" }
 }
 ```
 
@@ -30,3 +29,8 @@ npm install
 
 ### Run Test
 * > npm test
+
+### Features
+* Supports JWT token authentication using middleware
+* Uses a logging middleware 
+* Supports dynamic entities
