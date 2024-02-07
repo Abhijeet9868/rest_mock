@@ -31,6 +31,5 @@ npm install
 * > npm test
 
 ### Features
-* Supports JWT token authentication using middleware
 * Uses a logging middleware 
 * Supports dynamic entities
